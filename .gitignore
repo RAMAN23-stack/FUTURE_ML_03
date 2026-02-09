@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+archive (6)/
+final_report.txt
+output.txt
+terminal_output.txt
